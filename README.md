@@ -1,2 +1,1 @@
-# TinDogs
-A Dating Site for Dogs
+TinDog Starting Files
